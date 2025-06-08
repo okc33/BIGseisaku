@@ -1,0 +1,50 @@
+body {
+    font-family: 'Noto Sans JP', 'Yu Gothic', sans-serif;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+    color: #1e3a8a;
+    font-weight: bold;
+}
+
+.reveal h1 {
+    font-size: 3.2em;
+}
+
+.reveal h2 {
+    font-size: 2.2em;
+}
+
+.reveal h3 {
+    font-size: 1.4em;
+    color: #dc2626;
+}
+
+.reveal p {
+    font-size: 1.2em;
+    margin-top: 1em;
+}
+
+.reveal ul {
+    margin-left: 1.2em;
+    font-size: 1.1em;
+}
+
+.reveal ul li {
+    margin-bottom: 0.5em;
+}
+
+.reveal section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.reveal .progress {
+    color: #dc2626;
+}
+
+.reveal .controls {
+    color: #1e3a8a;
+}
